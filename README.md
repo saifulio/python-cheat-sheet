@@ -1,7 +1,8 @@
+# Basic Syntax
+
 ## 1. Variables and Data Types
 
 ```python
-
 # Integer
 
 x = 5
