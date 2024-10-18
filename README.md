@@ -1,5 +1,15 @@
 # Basic Syntax
 
+| Feature              | Syntax                                 | Example                               |
+| -------------------- | -------------------------------------- | ------------------------------------- |
+| Comments             | ` # This is a comment`                 |                                       |
+| Print Output         | `print("Hello, world!")`               | Prints "Hello, world!" to the console |
+| Variables            | `variable_name = value`                | `x = 10`                              |
+| Data Types           | `int`, `float`, `str`, `bool`          | `10`, `3.14`, `"Hello"`, `True`       |
+| Arithmetic Operators | `+`, `-`, `\*`, `/`, `//`, `%`, `\*\*` | `5 + 2`, `10 / 3`, `5 \*\* 2`         |
+| Comparison Operators | `==`, `!=`, `>`, `<`, `>=`, `<=`       | `5 > 3`, `10 == 10`                   |
+| Logical Operators    | `and`, `or`, `not`                     | `True and False`, `5 > 3 or 2 == 1`   |
+
 ## 1. Variables and Data Types
 
 ```python
